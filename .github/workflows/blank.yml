@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   leak:
-    name: Hello World
+    name: Hello World - meow
     runs-on: ubuntu-latest
     steps:
       - name: Hello
